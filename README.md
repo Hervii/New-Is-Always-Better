@@ -1,2 +1,1 @@
-# New-Is-Always-Better
-new
+Me having a bit of fun and expanding my Python knowledge
